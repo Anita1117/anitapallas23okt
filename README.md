@@ -3,4 +3,5 @@
 # próba böngésző
 # github vs code
 # konfliktus vs code
-# commit 
+# commit
+# nem működik
